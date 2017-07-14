@@ -23,22 +23,15 @@ var setInterval_old = window.setInterval;
 var setTimeout_old = window.setTimeout;
 var clearInterval_old = window.clearInterval;
 var clearTimeout_old = window.clearTimeout;
-var startDate = new Date;
 
 //QueuedTimer format: {ID: [startTime, repeat, func, delay, args]}
 var queuedTimers = null;
 //ActiveTimer format: {ID: [repeat, func, delay, args, browserTimerID]}
 var activeTimers = window.timeoutTamerTimers = {};
 var nextID = 1000000;
-var lastUserInteraction = Date.now();
 
-function debugLog() {
-	false && 
-	console && console.log && console.log(Array.slice(arguments, 0));
-}
-
-function muffleTimers() {
-	return (Date.now() - lastUserInteraction) > 15000;
+function debugLog(...args) {
+	false && console.log(...args);
 }
 
 function addTimer(ID, repeat, func, delay, args, isNew) {
@@ -54,12 +47,7 @@ function addTimer(ID, repeat, func, delay, args, isNew) {
 		return ID;
 	}
 	
-	//if(Object.keys(queuedTimers || {}).length + Object.keys(activeTimers).length > 500 && new Date - startDate > 15000) {
-	//	debugLog("addTimer", "More than 100 timers!? Fuck that!", arguments);
-	//	throw Error("STFU PLZ");
-	//}
-	
-	if(muffleTimers()) {
+	if(document.visibilityState === 'hidden') {
 		if(!queuedTimers) queuedTimers = {};
 		isNew && debugLog("addTimer", "Deferred", [ID, repeat, delay, func]);
 		queuedTimers[ID] = [Date.now(), repeat, func, delay, args];
@@ -103,12 +91,12 @@ function execTimer(ID, repeat, func, delay, args) {
 	} catch(ex) { console.log(ex); }
 }
 
-function onUserInteraction(event) {
+function onVisibilityChange(event) {
+	debugLog("onVisibilityChange", "document.visibilityState is", document.visibilityState);
 	try {
-		lastUserInteraction = Date.now();
-		//If any timers are queued, restart them
-		if(queuedTimers) {
-			debugLog("onUserInteraction", "Processing deferred timers", arguments, queuedTimers);
+		//If window becomes active and any timers are queued, restart them
+		if(!document.visibilityState !== 'hidden' && queuedTimers) {
+			debugLog("onVisibilityChange", "Processing deferred timers", arguments, queuedTimers);
 			try {
 				for(var ID in queuedTimers) {
 					//QueuedTimer format: {ID: [startTime, repeat, func, delay, args]}
@@ -121,23 +109,14 @@ function onUserInteraction(event) {
 					delete queuedTimers[ID];
 				}
 			} catch(ex) {
-				debugLog("onUserInteraction", "Error", ex);
+				debugLog("onVisibilityChange", "Error", ex);
 			}
 			queuedTimers = null;
 		}
-		removeEventListener("mousemove", onUserInteraction);
-		removeEventListener("keydown", onUserInteraction);
-		
-		setTimeout_old(function() {
-			addEventListener("mousemove", onUserInteraction);
-			addEventListener("keydown", onUserInteraction);
-		}, 5000);
 	} catch(ex) { console.log(ex); }
 }
 
-["mousemove","mousedown","mouseup","keydown","keypress","keyup"].forEach(function(evt) {
-	addEventListener(evt, onUserInteraction);
-});
+document.addEventListener("visibilitychange", onVisibilityChange);
 
 
 
