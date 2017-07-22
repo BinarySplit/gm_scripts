@@ -14,7 +14,8 @@ GM_addStyle([
     //Move video time to left side and make it always visible
     ".video-time { left: 2px !important; bottom: 2px !important; right: auto !important; top: auto !important; display: inline-block !important; }",
     //On video, bring back Watch Later button in the topbar
-	".ytp-hide-info-bar:hover .ytp-chrome-top { display: inherit !important; }",
+    ".ytp-hide-info-bar:hover .ytp-chrome-top { display: inherit !important; }",
+    ".ytp-watch-later-button { display: block !important; }",
     //But hide the other crap up there
 	".ytp-hide-info-bar .ytp-chrome-top > .ytp-title, .ytp-hide-info-bar .ytp-chrome-top > .ytp-share-button { display: none !important; }",
     //And hide the topbar itself so that it doesn't overlap annotations

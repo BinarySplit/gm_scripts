@@ -37,8 +37,6 @@ let w=["Ich","ist","ich","nicht","Sie","du","das","die","es","und","der","zu","s
 "Norwegen","Nobuyuki","Nobutaka","Nobukado","niedlicher","Niederschlag","Neutron","Neuem","Nestor","Navin","Nationalen","Nately","Nassau","Nanomeds","nährt","Nähen","Nada","nachsitzen","Nachhinein","Muttersöhnchen","Mütterchen","Moran","monsieur","monatlichen","Möchtegern","mobilisiert","miterleben","Mille","Mifune","miez","Miese","Metaphern","Menschenrechte","Meningitis","Memme","Meeresboden","Medusa","Mechanik","McVeigh","Maximillian","Maui","Mathias","Mathers","Mathematiker","massiv","Marmor","MARLlN","Maple","Manor","Mandarin","manch","Majors","Magnetfeld","Magda","Machine","Lymphom","Lüftungsschacht","Luftröhre","Luckman","ltaliener","lrgendwas","lrgendwann","LOST","lonely","Lingo","Liang","leugnet","lenkst","Lenin","Lem","Lektor","leert","Lebenslänglich","lbo","Lavendel","Latino","Langdon","Landei","Landeanflug","labil","Kyles","Kuriere","Krzeminski","krieg's","KRIEG","kreuzigen","Koyama","Körpersprache","Koris","konkret","königlicher","komplexer","kompetent","Kolumbianer","Kohei","Kodierung","knifflig","klärt","klammern","Klamm","kinder","Kestner","Kel","Keines","katapultiert","Karamell","kaputtes","Kanten","Kanonenrohr","Kamio","Kaffeemaschine","Justice","Junko","Juliern","Juanito","Jinna","JiHee","Jammerlappen","Jahrhundertwende","Jackentasche","Izumi","italienischer","iPod","Instrumentalmusik","Inmitten","Indiens","IHRE","Ignorieren","hwan","Hutchinson","hunt","Hundertprozentig","Huey","Holla","holde","Hoggett","Hochachtungsvoll","Hochachtung","HO","hinzubekommen","hinweist","hinsichtlich","Hilfsmittel","Hijikatasan","Higo","Hidden","heruntergekommen","herumsitzen","Hering","hellichten","heimgekehrt","Heimfahrt","Heimatplaneten","heiBen","Hebamme","head","Haupttor","Haschisch","Harrys","Haggans","haette","hack","Gunn","Guckst","Grunzen","Grünes","grundlegende","Grover","Größten","Greenhorn","Grashüpfer","Gouverneurs","Glückszahl","Globus","Gleichstand","Gleichheit","gleichermaßen","gleichem","Giraffe","Gino","Gigelf","Ghelten","GG","gewichen","gewalttätigen","gesellschaftliche","geschätzten","Gérard","genagelt","gelbes","Gelben","Geladen","geistiger","gehenlassen","gefielen","Gefängnisstrafe","Gadget","furzt","furzen","Fujiko","Führungsqualitäten","Frust","fromm","fraß","Frankreichs","FRANK","FORTSETZUNG","Flüchtige","FlashDrive","Finnland","Feuerwehrleute","Feuerleiter","Feueralarm","fettig","Fernsehsender","Feldzug","Faustkampf","fasste","Familienessen","falschem","Extremisten","Extrablatt","Explorer","Exfreundin","ESMitglieder","erzürnt","erwidert","erscheinst","erlischt","erleuchtet","erlebst","erkenntlich","ereignete","Erdverteidigung","erbärmliche","Episoden","Entzugsklinik","enttarnt","entstellt","entschuldigte","entschließt","entscheidender","enthoben","Entführungen","entehrt","Entdeckungen","Enkelsohn","endeten","empfänglich","Elzar","Eisdiele","einwickeln","einschlafe","Einsatzteams","eingetauscht","eingesprungen","eingeatmet","einfühlsam","einfältig","EINEM","eigenartige","Eiffelturm","ehrenwerter","Ehemannes","egoistischer","Egg","Edited","Echse","easy","Durell","durchzudrehen","durchschlagen","durchleben","durchdreht","Dolls","Dobisch","Dienstaufsicht","dienlich","DIC","Deltas","Della","Defense","Deckname","debattieren","dazugehört","Daseins","Darville","Darfich","dahintersteckt","Cougar","Concierge","Community","Coca","Clifton","Chisum","Chirurgin","Checkpoints","Checken","Charly","Celsius","Casinos","Casa","Carlito","Camper","Calabrese","Busey","Buro","Bundesagent","Bums","Buffay","brennt's","Brautpaar","Bowlen","Bow","boden","Bistro","Bieten","Bibi","Biber","Bezeichnungen","beweglich","Bettdecke","betrunkener","Betrunkenen","betrittst","betreut","Betonung","betätigt","betätigen","bestimmter","Besessen","beschädigten","Bekam","beibrachte","beginnst","befahlen","Bedauerlich","beaufsichtigen","Bearbeitung","Basislager","Barker","Bannkreise","Banküberfall","Bände","Balhae","Award","auszurichten","auszureden","ausspricht","ausspionieren","Außen","Ausnahmezustand","Auskünfte","ausgezeichneten","ausgeübt","ausgebildete","ausgebeutet","ausbringen","Augenbinde","aufzuwachsen","aufzubewahren","auftauchten","auftauche","aufging","aufgezwungen","aufgesucht","auffrischen","Audiokommentar","Atomschlag","Appartment","Aorta","anzuführen","Annas","ankündigen","anhast","angefallen","angebrüllt","Anfassen","Amano","Algen","Akzeptiere","aktiviere","aIso","aggressiven","AC","abzubrechen","Abweichungen","abweichen","abtrocknen","Abseits","Abschlussklasse","Abschiedsparty","absaugen","ablesen","Abi","Abhauen","abgelegenen","Zweieinhalb","Zuwanie","zutrifft","Zusehen","zusammenhält","zurückbringt","Zündschnur","zickig","Zeugenaussage","Zeiger","Zasa","Zaki","Zahlt","Yuh","YoungJoon","Yeon","Yasuhiro","wwwsubtitlesde","Wusst","würdiger","Wracks","Wolfman","WOL","Wohlfahrt","wöchentlich","woandershin","wirtschaftliche","wirres","Wichtigtuer","Weltmeisterschaft","weiterzuleben","Weisser","weile","weichst","wegschmeißen","weggegeben","weggeflogen","Wecken","Watte","Wasserversorgung","Washizu","währt","wae","vorgeschrieben","vorgehabt","vorgegeben","Vorgänge","Vokabular","virtuellen","Vinci","Vietnamkrieg","verworfen","Verwende","Verstöße","verstorbener","verpfändet","Vernichte","Vernehmung","vermerkt","vermasselst","vermache","Verlässt","verhängen","Verhältnisse","vergrößert","verduften","Verdammten","Verbreitung","verbrauchen","Verborgenen","Verbindungsmann","verabschiedete","Ventura","VANDAMM","unweigerlich","Unvorstellbar","unterzubringen","unterstellen","Unserem","unnötigen","undich","Unanständiges","Umsonst","umgestellt","übertreib","übersteht","Überlebender","typisches","TVAnimation","Tusse","Türschwelle","Turks","Türglocke","Tucson","trockne","Trinkspruch","Trickfilm","Treves","tret","Treff","Trampolin","Tötete","Tonja","ton","Tomoka","Tierheim","Tierchen","Tien","ticken","Tibor","Thorwald","Thornhill","terroristischen","Tenzen","TennozuGruppe","Telepathie","Telegramme","Teddybär","Tap","Tanze","Tänzchen","Taktiken","Takahoshi","Tadano","sweet","Supervision","Stromversorgung","strikt","streifen","streck","strebt","Straßenecke","Stöpsel","Stile","Steifen","steh'n","Steckdose","Stavros","Stadtzentrum","Spielhalle","spendiere","spektakulär","song","soetwas","Sodbrennen","Skinheads","Sister","Siro","sinn","simplen","Siletsky","Sigmund","Sicherheitskräfte","Sicherheitscode","Shogunsama","Shintani","Seven","Sentinel","Sense","Sehkraft","Seebarsch","Schwerpunkt","Schweres","Schwache","Schulleiter","Schulhof","Schubkraft","Schriftstellerin","Schranken","schmeissen","schleimige","schlechtere","Scherereien","Schaue","Schatulle","Schamhaare","Sancho","Sagisu","Sacred","Sacramento","Ryuichi","runterbringen","Rumsitzen","Ruht","Rotzlöffel","rotem","Rosemonde","Riesenfehler","Rhyme","Renate","Rembrandt","relaxen","reinzuwaschen","reinspaziert","Regionen","Regieassistent","rechnete","Reardon","Raydon","rauszulassen","rauskriegt","rausgeht","rausgefallen","rausfliegen","raue","rassistisch","Randy's","rächt","Qetesh","Providence","Prius","Precrime","praktiziert","Postboten","Polizeibeamten","Polizeibeamte","Play","Plant","pink","Pietro","Phoebes","Pheebs","Phasen","Pfunde","pfeif","Petroleum","perverser","Perrache","Peperoni","Pennys","Paprika","Papo","Ozzy","Ou","Orgasmen","ORen","OJ","Ohtsuki","Ohief","Oaks","nutzlosen","nothing","Notfalls","Niu","niedliches","niedergeschossen","nichtwahr","NICHTS","Nichtraucher","neuste","neurotisch","NEUES","NEUE","Ndugu","Narrator","Nahm","Nagasaki","Mysterien","mutiert","Motomu","Mose","Morgenlicht","MORGEN","Mordversuch","montagne","Montagmorgen","Monopoly","Möglichst","mitgegeben","mitfliegen","Mistelzweig","mischte","minute","Mindestlohn","mild","Mieke","Michihisa","miaut","Merrin","mentalen","MENGE","Meldet","Meichan","mechanischen","Mayo","Maximale","Maugham","Matsukura","Matrone","Marker","Margaritas","Mancini","mähen","Magistrat","Macs","lV","Luxaner","Lunte","Luftschacht","Lucian","loszulegen","Lösch","Lolita","lo","lndianer","Lieblingsfilm","lieb'","Lichtung","Leiste","Leibwache","Lebensraum","LAUTSPRECHER","Laufpass","late","Lassie","Lampenfieber","Lakaien","Lächel","LABORATORY","LaB","KZ","Kusanagi","kurzsichtig","Kurtz","kurieren","künstlerisch","Kronprinz","kosmische","Korrigiert","Kontrollturm","konkurrieren","Kombinationen","Kolonisten","Knute","kniete","knarrt","knabbern","Kleinfeld","klau","klatscht","klassisches","Kisaichi","Kirklees","Ketzerei","Kernschmelze","Kellnerinnen","Keats","Kashew","Karrieren","Känguru","Kamerateam","Junco","Juliette","jüdischer","jucken","Joonsuk","Jonesey","JiWon","Jesses","JediRitter","Jassie","Jasmine","Janni","Jahrzehnt","istjemand","irgendwelches","Intrigen","Intellekt","Insook","infizierte","Ike","Ignacio","idee","Idealen","Idaho","Hwang","hungriger","HOUSE","Hol's","Holländisch","Höhlenmenschen","hochnäsig","hochgegangen","Hirsche","Hirooka","HILFE","Hervorragende","hervorgebracht","herumläuft","herraus","Hermia","herausnehmen","heimliche","heimkam","Head","Hazel","Hausfriedensbruch","Hauptverdächtiger","Hauptverdächtige","hass","Hartmann","harmloser","Handgranaten","Handgelenke","HAKUSENSHA/","HAKUSENSHA","Haiku","Haferflocken","Haarspray","Gynäkologe","günstige","Gruppenführer","gründeten","Größenwahn","grässlichen","grabe","Gould","gotta","Gondors","Goliath","glorreiche","Gleason","Gim","gigantische","Gibs","Gewissensbisse","gewalttätige","getröstet","gestreckt","Gesprächsthema","gesprächig","gespalten","gesellig","gesellen","geschrumpft","Geschichtenerzähler","GESCHICHTE","geschaltet","gerissene","gerate","gerast","Gepriesen","genützt","Genozid","Genaues","gemeinsamer","Gemein","GELLER","gekappt","Geisterstadt","geimpft","gehemmt","geforscht","gedeihen","Gazelle","Gattung","Gastgeberin","Garnichts","Gardinen","Garantien","Ganges","Fumiya","Fujita","Führungskräfte","Früchtchen","Friedhöfe","französisches","found","forschen","Fohlen","Flüchtlingslager","flippe","flattern","Finito","Feuert","Festes","fertiggestellt","Fernsteuerung","Feinheiten","feindselig","feigen","Feiertagen","Fehlanzeige","Fe","fantastisches","Fanpost","Famile","Eye","Ewan","Etikette","Eskimo","E#s","erwischten","Erschreckend","erschoß","erntet","Erist","erinnerten","ergänzen","erfülltes","erdulden","erdenklichen","erblüht","entwerfe","entfallen","Entbindung","Ensenada","Enrahah","ENOKI","Enigma","Enid","Enderby","Elly","elendes","Elender","einzuschätzen","Einzigste","einzieht","einstweilige","einschenken","einsatz","einmischt","einmarschieren","Einigkeit","eingeschnappt","eingecheckt","ehrenvoll","Early","Earls","duscht","durchkreuzen","durchfahren","Drugstore","Druckwelle","Drücke","Drop","Dringend","Drehst","drausen","Drachens","DR","Dottore","Doppelzimmer","Doppelten","Dominik","Dodo","Deckmantel","Darwin","Dans","Dämpfe","Dämlicher","Daly","dadrin","Covington","Coruscant","Coordinators","Cofell","Clique","chirurgischen","Chile","Chas","Chandra","cat","Camcorder","Bürokratie","Bürokraten","Bunin","Bungalow","Bugroms","Bruchlandung","Broschüren","Briony","Brillenschlange","Bright","Brauchbares","Bordkarte","Blutfluss","Blutbild","blindes","Blickfeld","Biggis","bewerfen","Bewährungsauflagen","betreibe","Bestseller","Besinnung","besiegst","beschützte","beschämend","Beruhigung","bereitstehen","berechenbar","bemerkenswerter","belügst","belüge","Bello","beliebten","belehren","belanglos","behaltet","begrenzten","Begreifen","begab","Befreie",
 "before","beauftragen","Bean","Beagle","Barmann","Ballkönigin","backe","auszufüllen","ausstatten","äusserst","aushalte","Ausgrabungen","ausbeuten","ausbaden","Aufzüge","aufzuführen","aufwischen","Aufschrift","aufsammeln","aufrechtzuerhalten","Aufputschmittel","Aufpasser","Aufhebens","aufdrängen","Asteroid","asiatische","Asenkerschbaumer","Asako","applaudieren","Apfelsaft","Antike","anstrengender","anspricht","Anschlags","Anonyme","Anlaß","ANIME","Anhängern","angibt","Angehöriger","Anfangsdatum","Anfangen","Anfänge","amputiert","Älteren","Alpen","alone","Allie","allererst","Alias","AK","aIIe","agiert","Administration","Achmed","abzuwenden","abzuliefern","abzubauen","abweisen","Absolution","Absolute","abschlachten","Abruf","Abrakadabra","Abmachungen","Abitur","abgeschoben","Abgefahren","abgeblieben","A/","Zwinger","zurückzutreten","zurückzieht","zurücklehnen","zurückkriegen","zurückerobern","Zündet","zugezogen","ZUGANG","zufriedener","Zhora","zelten","zeichneten","Zaubersprüche","Yubaba","Yuan's","Youngmin","Yeung","Yeahyeah","Yakuzas","WURDEN","Wünschst","Wundert","wohlbehalten","Wissenschaften","wischt","Winzling","Wimmern","Wilsons","wiedergesehen","Wiederbelebung","Widersprüche","Wesens","Werdegang","Wenigkeit","Weltausstellung","weiterentwickeln","Weiteren","Weisse","Weißbart","Weiden","Weichteile","Weichling","weia","Web","wau","Watergate","Water","Wasswa","Wasserturm","Wassertank","warmherzig","Warmes","warmer","wärme","wälzen","Wadenknöchel","Wachhund","vorzuwerfen","vorübergehende","Vorsatz","Vorhut","Vorgestern","vorbestimmt","Vollkommenheit","vollgestopft","Vlad","viertes","Vierter","Videoband","verzeichnen","verweigerte","Verteilung","Verteidigungslinie","Versuch'","Verschwenden","verschossen","verschließt","verscheucht","verschanzt","Versailles","Verrücktheit","verpetzt","Verordnung","verlagert","Vergrößerung","vergleicht","vergeudest","verfügbare","Verfluchtes","verehrter","verdopple","verdenken","Verbrecherin","Verbot","Vandalismus","Vallo","unzähligen","unwichtigen","unterschreib","Unterrichten","unrealistisch","U/North","Ungewöhnlich","Ungewissheit","unentschlossen","unbeschreiblich","Unbehagen","Umwerfend","Umwandlung","Uhuh","Uhrzeigersinn","Uff","Überzeugungen","Überwachungsraum","Übertreib's","Übertreiben","Überschwemmung","überrumpeln","überreiche","überhört","übergelaufen","Tuberkulose","Tschetschenien","trockenes","Tratsch","Trainingsanzug","Trade","Tonami","Tieres","Throat","Thisbe","There","=The","Telefongesellschaft","Teamarbeit","Teal`c","Tatum","Tati","Taschenrechner","Tamarla","Takemikazuchi","tage","Tafelrunde","synchronisieren","Swanson","Süssigkeiten","suspendieren","Sulu","Südfrankreich","Südens","Sturkopf","Stubbs","Stringer","Stricher","Straßenverkehr","Straight","Stoßen","Stoker","Stöcken","Stöcke","stillgelegt","Stichwunde","Steppe","stehengeblieben","steh'","staubig","Stanleys","städtischen","Spritz","springende","Sprengladung","Spots","Sports","sportliche","Spoors","Spivak","Spätestens","Sparks","Sonnen","Sodass","Snob","Simonson","Silhouette","signiert","SierraTangoNine","siegreich","Siebzehn","Shoten","Shimizu","Shanti","Shakur","Shake","Serrano","separat","Sende","Selten","Selbstmordversuch","Seelenverwandte","Scoob","ScienceFiction","Schwörst","schwinden","Schwerelosigkeit","schweige","schwankt","Schüssen","Schuldgefühl","Schreibe","Schränke","schob","Schnösel","schmücken","schmerzhafte","schlummert","Schlechten","schlampige","Schlafengehen","Schlachtschiff","Schh","Scherzkeks","Schert","scheinheilig","schädlich","Scavo","Scaramanga","Scannen","Santiago","sank","Samt","Sammelt","saftig","rumläuft","rumgeknutscht","rudern","Rückwärts","Roswell","Röntgenbild","Röntgenaufnahmen","Rollfeld","Rockband","Richardson","Rettungsschwimmer","Replikator","Registrierung","Raupe","rät","rasiere","rangekommen","Ramones","Rainey","Raffinerie","radikale","Radha","Race","Prominenten","PRODUKTION","Probeaufnahmen","Privates","Prise","Preußen","Pra","populär","Polier","Pluto","Plattenspieler","Piñata","Pig","pflegt","Pflegeeltern","Pfau","Pemberton","Pelze","PEGGY","Peco","Paz","Patriotismus","passender","Parton","Paraguay","Panzerung","Palästina","other","O'Neal","Öffentliche","Odyssee","Obotes","normalem","nordwestlichen","Niggern","Ngek","Netan","nervtötend","Nanao","Nähmaschine","Nägeln","Nachtrag","nachschlagen","Nachladen","Mutterleib","Musculus","Münder","Mu","Motorboot","Mordopfer","Moped","Moose","Modus","mobilen","mitnimmst","mitbringe","missverstehen","miss","Militärdienst","Michiko","Michelangelo","mia","Mercier","melodramatisch","Meecrob","mausetot","Matobo","massenweise","Massenvernichtungswaffen","Maschinengewehre","Marshalls","Marketing","Marin","Marbles","Mannomann","Manifest","Malachy","Mahoney","Mädchenname","lutscht","Luo","Lrrr","loyaler","losmachen","liegend","Liedchen","Liebeslied","Lhren","Lexikon","letze","Leni","lehrreich","Lehnen","LeeJohn","Lecken","Leberfleck","Landezone","Ländereien","Landeplatz","Landeerlaubnis","Lämmer","Laderaum","KyungJin","Kuwait","Küsten","Kunstschule","Kroo","Kriegsgebiet","Kralle","kostenlosen","Korsett","Kontrollieren","konsultieren","Konservatorium","Kono","Kojoten","Kogan","Knistern","knie","knappe","Klunker","Kluge","Kliniken","klebte","klaue","Klapse","klappe","Kirby","Kiffer","Kenia","Kendo","Keitarôs","Kazim","Kawalsky","Katya","Kästchen","Kastanien","Kareem","Kapoor","kandidiert","Kämpferin","Josua","Jordans","Jonfen","jonah","Joanne","jetz","jegliches","Jammern","Ives","IQTest","IOA","Interstate","intern","Inneres","Imai","Ibrahim","Huskaroo","Hull","Horden","holprig","Höllenloch","Hohn","Hohes","Hogs","Hoffnungslosigkeit","hochgezogen","hingehöre","Hindus","Hierbei","heutiger","heule","hervorbringen","Herden","heimzuzahlen","Haywood","Hayden","Hausaufgabe","Haupthalle","Hasegawa","Hartes","Harfe","Hardwick","Hansel","Handschlag","Handelsposten","Händedruck","Halstuch","Halo","Halbschwester","Halbfinale","haften","GUTE","Gusteau's","Gummibärchen","grüssen","Grünzeug","Grundstücke","Grundsätze","grössten","Großfürst","groB","Grigori","Grieche","grässliche","Gottesanbeterin","Goody","Gönnen","Goldständer","Goh","Glut","glühende","Glücksfall","Gimli","Gieß","Ghouti","Gewinnt","gewandert","Gesuchte","gestrige","Gestein","geschwänzt","geschuftet","geschlossene","gescherzt","geschäftlichen","Gerichtsmedizin","gerätst","gequatscht","geplante","Genta","Genji","gekettet","Geiger","Gehörst","Geheimdienste","gefühl","gefrorene","Gefolgsleute","Gefeuert","Gefasel","Gefängniszelle","GEFÄNGNIS","geehrter","gedealt","Geburtsdatum","geborener","gebildeter","Geary","Gasthof","Fußballer","Fürchtet","funktionierten","funktionierenden","funken","Füchse","frontal","freund","freudig","Frauenstimme","Francesco","fotografiere","Fortpflanzung","fortan","food","Flyer","Flurs","fliehe","Flegel","Flamingo","fixieren","finstere","fine","Filmemachen","Fieser","Fidschi","fi","festmachen","festgemacht","Fertigkeiten","Feathers","Fäusten","fasten","farbige","falten","Fallujah","Eunuch","EUCH","etablieren","Espinosa","Eskimos","erzieht","erzähl'","Erwar","ertrag","erstklassig","Erstaunen","erotisch","erkrankt","erklimmen","Erkan","erkältest","erhob","erhältst","erfundene","entnommen","Entlassungen","entflohene","Entfernt","entblößt","enormer","Energieversorgung","emotionaler","Elroy","Eliot","elektronisch","eisigen","einzulösen","Einzahlung","Einträge","Einsiedler","einschreiben","eingenickt","Eindrücke","Egoismus","durchkreuzt","durchgestellt","Durchdrehen","Durchblick","'Du","Dschinn","Druckerei","drosseln","dringenden","Dostojewski","Django","Distributed","digitales","Dienstgrad","Dichtungen","dichtmachen","dh","Dez","deutsches","Denis","dehydriert","dealst","Dampfen","Dämons","Dammers","Dahinten","dae","Dachfirst","Clancy","Chunky","Chung","Chopper","Chloes","Chloé","Cheerleading","checkt","Chaney","Chanel","Cessna","Cemal","Celecia","Celd","CDC","care","Cali","bügeln","Brundle","Brrr","Broderick","brich","bremst","Bremen","bravo","Braune","Brandzeichen","brandneu","Borjes","Bootstrap","Boogie","Blutspuren","blutete","Blutegel","blinzelt","Blindheit","bitteschön","Birdie","bin´s","Billionen","Bilden","Biester","biegt","Bewachung","bevorstehende","beugt","Betteln","betrachtete","betrachtest","Bestattung","bestatten","Bestandteile","best","beschießen","bescheuerter","Berichterstattung","Bergung","Beobachtet","bemühte","Belieben","Belang","Bekanntmachung","bekämpfst","beisst","beissen","Beilage","behinderten","begegneten","befürchtete","befällt","Beatrice","beachtliche","Bauchweh","Barret","Barbosa","Bankier","Ballard","Bagels","Avalon","auszurotten","Ausweichen","aussteigt","ausspucken","ausrotten","ausgetrunken","ausgestreckt","Ausgenommen","ausgefragt","Ausfall","ausatmen","ausarbeiten","aufzumuntern","aufzumachen","Auferstehungsschiff","Audio","attraktiven","Attraktion","Arts","ärmer","ärgerte","ärgere","Arbeitskräfte","Apparatur","anzurichten","anzugeben","anziehst","Anubis","Anrecht","annähen","ängstigen","Angreifen","Angewohnheiten","angesehenen","angelaufen","angebaggert","Analytiker","Amigos","amigo","Allmächtige","Alec","Alcatraz","alarmiert","Adligen","Abwasser","absurde","Abstecher","Abschrift","abgewischt","abgewendet","Aberglauben","Abbie","Aas","Aal","§","Zwischenstopp","zuwenden","zustimme","zusammenbauen","zurückspulen","zurückgeht","zuordnen","zunutze","zügig","Zier","zieh'","Zerbrich","Zeke","Zeitkapsel","Zeitdruck","Zarin","Yorkshire","Yeoil","Wortschatz","Wongs","Wohnort","Wohltätigkeit","Wiehern","'Wie","widerlegen","wich","Werwölfe","wertlosen","Weltkrieges","Wasserbett","wärend","wahrheit","vorstellte","Vorsteher","vorherbestimmt","voreingenommen","vordringen","vorbeikommst","voraussichtlich","Voraussetzungen","Viv","Vigo","Vickers","verzweifelter","Verzweifelt","very","verwurzelt","Verwicklungen","verwanzt","verspeist","Versetzen","Verschwörungen","verschworen","verschone","Verschmutzung","verschlucken","verschleiern","verschlechtern","versau","verrottet","Verpiß","verpassten","Verpass","verloben","Vergleichen","Vergisst","verführerisch","verflogen","verdrücken","Verdient","verdeutlichen","verdächtiges","verbleiben","Ventile","USSerienUntertitel","Unverständliches","untersuchte","Untersteh","UNIT","unerwünscht","undankbare","Uncle","unabhängiger","umzuziehen","Umsetzung","umhüllt","Ui","überziehen","überwiegend","übertrumpfen","Übersetzen","übersetze","überredete","überraschende","übern","Überheblichkeit","überfällt","tztesrebÜ","Turms","Tunfisch","T´schuldigung","trommeln","Triple","Trieb","Trane","Traini","Toulour","Too","tonnenweise","Tommys","Toki","Todeszeitpunkt","Todestrakt","Titelsong","Tigern","Théoden","Tessie","Tenorman","Tendenz","Telefonrechnung","tauschten","Tatsuya","tätowieren","Tatooine","Taschenmesser","Takagi","Tafeln","ta","Szenarien","Sweater","Supernova","summen","Südostasien","SUB","Strophe","Ströme","strengt","streikt","streckte","Straftaten","Sträflinge","Stokes","Steel","Starthilfe","Stampfie","Sprechchor","Sprechanlage","Spielte","Spielschulden","Sphinx","Spezialgebiet","Speichel","Spaßvogel","spaßen","Sozialamt","soul","Soohyun"];
 
-let nodes = document.querySelectorAll(".exact [lid^='DE:']");
-let i = 0;
 
 function getWordFromNode(node) {
 	const wordNode = node.querySelector(".dictLink");
@@ -58,20 +56,92 @@ function getWordFromNode(node) {
 	return found.join(' ').trim();
 }
 
-function isAdjective(node) {
-	const wordTypeNode = node.querySelector('.tag_wordtype,.tag_type')
-	return wordTypeNode && /adj/i.test(wordTypeNode.textContent)
+function addWordFreqs(node, word) {
+	let finds = []
+
+	function isAdjective(node) {
+		const wordTypeNode = node.querySelector('.tag_wordtype,.tag_type')
+		return wordTypeNode && /adj/i.test(wordTypeNode.textContent)
+	}
+
+	const tryWord = (candidate) => {
+		if (finds.some(find => find[1] === candidate)) return;
+		let candidateFreq = w.indexOf(candidate);
+		if (candidateFreq !== -1) {
+			finds.push([candidateFreq, candidate]);
+		}
+	}
+
+	tryWord(word)
+	if (/^[a-zäöü].*(en|ln)$/.test(word)) {
+		tryWord(word.replace(/e?n$/, 'e'))
+		tryWord(word.replace(/e?n$/, 't'))
+		tryWord(word.replace(/e?n$/, 'et'))
+		tryWord(word.replace(/e?n$/, 'st'))
+		tryWord(word.replace(/e?n$/, 'te'))
+		tryWord(word.replace(/e?n$/, 'ete'))
+		tryWord(word.replace(/e?n$/, ''))
+	}
+	if (isAdjective(node)) {
+		tryWord(word.replace(/e?n$/, 'e'))
+		tryWord(word.replace(/e?n$/, 'en'))
+	}
+	finds.sort((a,b) => a[0] - b[0])
+	if (finds.length > 0) {
+		finds.forEach((find) => {
+			const el = document.createElement("a");
+			el.href = `https://www.clozemaster.com/languages/deu-eng/sentences?utf8=✓&q=${encodeURIComponent(find[1])}&scope=all&words=all`
+			el.textContent = ' (#' + find[0] + ' as ' + find[1] + ')';
+			el.style.fontSize = '0.6em';
+			
+			node.appendChild(el);
+		})
+	} else {
+		const el = document.createElement("a");
+		el.href = `https://www.clozemaster.com/languages/deu-eng/sentences?utf8=✓&q=${encodeURIComponent(word)}&scope=all&words=all`
+		el.textContent = ` (not found as ${word})`
+		el.style.fontSize = '0.6em';
+		node.appendChild(el);
+	}
 }
 
-function addConjLink(node, word) {
-  const wordTypeNode = node.querySelector('.tag_wordtype')
-  if (wordTypeNode && wordTypeNode.textContent === 'verb' && word) {
-    const link = document.createElement('a');
-    link.href = 'http://conjugator.reverso.net/conjugation-german.html?verb=' + encodeURIComponent(word);
-    link.textContent = 'verb';
-    link.className = 'tag_wordtype';
-    wordTypeNode.replaceWith(link);
-  }
+function addVerbForms(node, word) {
+	const wordTypeNode = node.querySelector('.tag_wordtype')
+	if (wordTypeNode && wordTypeNode.textContent === 'verb' && word) {
+		const link = document.createElement('a');
+		link.href = 'http://conjugator.reverso.net/conjugation-german.html?verb=' + encodeURIComponent(word);
+		link.textContent = 'conj';
+		link.className = 'tag_wordtype';
+		link.style.margin = '0 4px'
+		node.appendChild(link);
+
+		fetch(`https://crossorigin.me/http://conjugator.reverso.net/conjugation-german.html?verb=${encodeURIComponent(word)}`)
+			.then(response => response.text())
+			.then(html => {
+				let praeteritum, perfekt, debug = []
+				const el = document.createElement('html')
+				el.innerHTML = html
+
+				Array.from(el.querySelectorAll('.result-block>.responsive')).forEach(block => {
+					const header = block.querySelector('legend h3').textContent.trim()
+					Array.from(block.querySelectorAll('.responsive-sub')).forEach(list => {
+						const items = Array.from(list.querySelector('font').childNodes)
+							.reduce((acc, cur) => cur.tagName === 'BR' ? [...acc, []] : [...acc.slice(0, -1), acc[acc.length-1].concat([cur.textContent])], [[]])
+							.map(words => words.join(''))
+						debug.push([header, items])
+						if (header === 'Indikativ' && items[0] === 'Präteritum') praeteritum = items[1]
+						if (header === 'Indikativ' && items[0] === 'Perfekt') perfekt = items[1]
+					})
+				})
+				debug.push([praeteritum, perfekt])
+
+				if (praeteritum && praeteritum.startsWith('ich') && perfekt && perfekt.startsWith('ich')) {
+					link.textContent = `/ ${praeteritum.substr(4)} / ${perfekt.substr(4)}`
+				} else {
+					console.warn(debug)
+				}
+			})
+	}
 }
 
 function ankiFriendlyExamples() {
@@ -87,59 +157,22 @@ function ankiFriendlyExamples() {
 	document.querySelectorAll('.isMainTerm .example').forEach(transform(true))
 }
 
-let intervalId = setInterval(() => {
-	if(i >= nodes.length) {
-		clearInterval(intervalId);
-		w = nodes = i = intervalId = null;
-	} else {
-		const node = nodes[i];
-		try {
-			const word = getWordFromNode(node);
-			let finds = []
-			
-			const tryWord = (candidate) => {
-				if (finds.some(find => find[1] === candidate)) return;
-				let candidateFreq = w.indexOf(candidate);
-				if (candidateFreq !== -1) {
-					finds.push([candidateFreq, candidate]);
-				}
-			}
+let wordNodes = Array.from(document.querySelectorAll(".exact [lid^='DE:']"))
 
-			tryWord(word)
-			if (/^[a-zäöü].*(en|ln)$/.test(word)) {
-				tryWord(word.replace(/e?n$/, 'e'))
-				tryWord(word.replace(/e?n$/, 't'))
-				tryWord(word.replace(/e?n$/, 'et'))
-				tryWord(word.replace(/e?n$/, 'st'))
-				tryWord(word.replace(/e?n$/, 'te'))
-				tryWord(word.replace(/e?n$/, 'ete'))
-				tryWord(word.replace(/e?n$/, ''))
-			}
-			if (isAdjective(node)) {
-				tryWord(word.replace(/e?n$/, 'e'))
-				tryWord(word.replace(/e?n$/, 'en'))
-			}
-			finds.sort((a,b) => a[0] - b[0])
-			if (finds.length > 0) {
-				finds.forEach((find) => {
-					const el = document.createElement("span");
-					el.textContent = ' (#' + find[0] + ' as ' + find[1] + ')';
-					el.style.fontSize = '0.6em';
-					
-					node.appendChild(el);
-				})
-			} else {
-				const el = document.createElement("span");
-				el.textContent = ' (not found)';
-				el.style.fontSize = '0.6em';
-				node.appendChild(el);
-			}
-      
-			addConjLink(node, word);
+let intervalId = setInterval(() => {
+	if(wordNodes.length === 0) {
+		clearInterval(intervalId);
+		w = wordNodes = intervalId = null;
+	} else {
+		try {
+			const node = wordNodes.shift()
+			const word = getWordFromNode(node)
+
+			addWordFreqs(node, word)
+			addVerbForms(node, word)
 		} catch (ex) {
-			unsafeWindow.console.error(ex, node);
+			unsafeWindow.console.error(ex, node)
 		}
-		i++;
 	}
 }, 10);
 
