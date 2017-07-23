@@ -79,6 +79,11 @@ applyProxy = function () {/**
 		if(!/youtube/.test(document.location))
 			blocks.push("gapi", "___jsl");
 
+		//https://imasdk.googleapis.com/js/sdkloader/ima3.js
+		blocks.push("google_js_reporting_queue", "gteh", "Goog_AdSense_Lidar_sendVastEvent", "Goog_AdSense_Lidar_getViewability", 
+			"Goog_AdSense_Lidar_getUrlSignalsArray", "Goog_AdSense_Lidar_getUrlSignalsList", "ima", "onYouTubeIframeAPIReady", 
+			"google")
+
 		//https://connect.facebook.net/en_US/all.js
 		blocks.push("FB");
 
