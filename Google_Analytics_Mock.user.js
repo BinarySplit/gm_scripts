@@ -4,7 +4,6 @@
 // @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/Google_Analytics_Mock.user.js
 // @include     *
 // @exclude     https://console.developers.google.com/*
-// @version     1
 // @grant       unsafeWindow
 // @run-at 		document-start
 // ==/UserScript==
