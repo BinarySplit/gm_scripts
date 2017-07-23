@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name        Steam Store Title Cleanup & video boost
+// @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/Steam_Store_Title_Cleanup.user.js
 // @include     http://store.steampowered.com/app/*
 // @grant       none
 // ==/UserScript==

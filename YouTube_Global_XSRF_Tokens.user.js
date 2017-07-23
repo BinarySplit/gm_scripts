@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         YouTube Global XSRF Tokens
+// @downloadURL  https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_Global_XSRF_Tokens.user.js
 // @match        https://www.youtube.com/*
 // @grant        unsafeWindow
 // ==/UserScript==

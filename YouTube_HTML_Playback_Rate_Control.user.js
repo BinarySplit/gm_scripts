@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        YouTube HTML Playback Rate Control
 // @namespace   BSP
+// @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_HTML_Playback_Rate_Control.user.js
 // @include     https://www.youtube.com/*
 // @include     http://www.youtube.com/*
 // @version     1

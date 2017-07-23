@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        SetTimeout Tamer
 // @namespace   BSP
+// @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/Timer_Muffler.user.js
 // @include     http://*
 // @include     https://*
 // @exclude	    http://*.google.tld/*

@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        Linguee Frequency
 // @namespace   BSP
+// @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/Linguee_Frequency.user.js
 // @include     http://www.linguee.com/*
 // @version     1
 // @grant       none

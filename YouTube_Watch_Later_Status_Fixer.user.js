@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         YouTube Watch Later Status Fixer
+// @downloadURL  https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_Watch_Later_Status_Fixer.user.js
 // @match        https://www.youtube.com/feed/subscriptions*
 // @grant        none
 // @require      http://code.jquery.com/jquery-latest.js

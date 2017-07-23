@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name        Google Analytics Mock
 // @namespace   BSP
+// @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/Google_Analytics_Mock.user.js
 // @include     *
 // @exclude     https://console.developers.google.com/*
 // @version     1
 // @grant       unsafeWindow
 // @run-at 		document-start
 // ==/UserScript==
-//https://api.mixpanel.com/site_media/js/api/mixpanel.2.js
 
+/** Util function for injecting a script into a page and seeing which globals it adds */
 function testScript(url) {
 	function loadScript(callback) {
 		var done = false;

@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name        BSP Sabnzbd+ UI tweaks
 // @namespace   BSP
+// @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/Sabnzbd+_UI_tweaks.user.js
 // @include     http://localhost:8080/*
 // @version     1
 // @grant		unsafeWindow

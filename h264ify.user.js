@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         h264ify
-// @include        https://*.youtube.com/*
+// @downloadURL  https://github.com/BinarySplit/gm_scripts/raw/master/h264ify.user.js
+// @include      https://*.youtube.com/*
 // @run-at       document-start
 // ==/UserScript==    
 
