@@ -3,7 +3,7 @@
 // @namespace   BSP
 // @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/Linguee_Frequency.user.js
 // @include     http://www.linguee.com/*
-// @version     1
+// @version     1.1s
 // @grant       none
 // ==/UserScript==
 
@@ -116,32 +116,32 @@ function addVerbForms(node, word) {
 		link.style.margin = '0 4px'
 		node.appendChild(link);
 
-		fetch(`https://crossorigin.me/http://conjugator.reverso.net/conjugation-german.html?verb=${encodeURIComponent(word)}`)
-			.then(response => response.text())
-			.then(html => {
-				let praeteritum, perfekt, debug = []
-				const el = document.createElement('html')
-				el.innerHTML = html
+		// `fetch(`https://crossorigin.me/http://conjugator.reverso.net/conjugation-german.html?verb=${encodeURIComponent(word)}`)
+		// 	.then(response => response.text())
+		// 	.then(html => {
+		// 		let praeteritum, perfekt, debug = []
+		// 		const el = document.createElement('html')
+		// 		el.innerHTML = html
 
-				Array.from(el.querySelectorAll('.result-block>.responsive')).forEach(block => {
-					const header = block.querySelector('legend h3').textContent.trim()
-					Array.from(block.querySelectorAll('.responsive-sub')).forEach(list => {
-						const items = Array.from(list.querySelector('font').childNodes)
-							.reduce((acc, cur) => cur.tagName === 'BR' ? [...acc, []] : [...acc.slice(0, -1), acc[acc.length-1].concat([cur.textContent])], [[]])
-							.map(words => words.join(''))
-						debug.push([header, items])
-						if (header === 'Indikativ' && items[0] === 'Präteritum') praeteritum = items[1]
-						if (header === 'Indikativ' && items[0] === 'Perfekt') perfekt = items[1]
-					})
-				})
-				debug.push([praeteritum, perfekt])
+		// 		Array.from(el.querySelectorAll('.result-block>.responsive')).forEach(block => {
+		// 			const header = block.querySelector('legend h3').textContent.trim()
+		// 			Array.from(block.querySelectorAll('.responsive-sub')).forEach(list => {
+		// 				const items = Array.from(list.querySelector('font').childNodes)
+		// 					.reduce((acc, cur) => cur.tagName === 'BR' ? [...acc, []] : [...acc.slice(0, -1), acc[acc.length-1].concat([cur.textContent])], [[]])
+		// 					.map(words => words.join(''))
+		// 				debug.push([header, items])
+		// 				if (header === 'Indikativ' && items[0] === 'Präteritum') praeteritum = items[1]
+		// 				if (header === 'Indikativ' && items[0] === 'Perfekt') perfekt = items[1]
+		// 			})
+		// 		})
+		// 		debug.push([praeteritum, perfekt])
 
-				if (praeteritum && praeteritum.startsWith('ich') && perfekt && perfekt.startsWith('ich')) {
-					link.textContent = `/ ${praeteritum.substr(4)} / ${perfekt.substr(4)}`
-				} else {
-					console.warn(debug)
-				}
-			})
+		// 		if (praeteritum && praeteritum.startsWith('ich') && perfekt && perfekt.startsWith('ich')) {
+		// 			link.textContent = `/ ${praeteritum.substr(4)} / ${perfekt.substr(4)}`
+		// 		} else {
+		// 			console.warn(debug)
+		// 		}
+		// 	})`
 	}
 }
 
@@ -161,9 +161,9 @@ function ankiFriendlyExamples() {
 let wordNodes = Array.from(document.querySelectorAll(".exact [lid^='DE:']"))
 
 let intervalId = setInterval(() => {
-	if(wordNodes.length === 0) {
+	if(wordNodes == null || wordNodes.length === 0) {
 		clearInterval(intervalId);
-		w = wordNodes = intervalId = null;
+		w = wordNodes = null;
 	} else {
 		try {
 			const node = wordNodes.shift()
