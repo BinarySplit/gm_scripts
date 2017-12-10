@@ -2,6 +2,7 @@
 // @name         YouTube Style Fixer
 // @downloadURL  https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_Style_Fixer.user.js
 // @match        https://www.youtube.com/*
+// @version      1.1
 // @grant        GM_addStyle
 // ==/UserScript==
 
