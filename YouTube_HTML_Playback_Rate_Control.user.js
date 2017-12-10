@@ -3,7 +3,7 @@
 // @namespace   BSP
 // @include     https://www.youtube.com/*
 // @include     http://www.youtube.com/*
-// @version     1.1
+// @version     1.2
 // @grant       none
 // ==/UserScript==
 var first = true;
@@ -19,9 +19,9 @@ function init() {
     
     if(video && actionBar) {
         var speeds = [
-            0.25, 0.5, 1, 1.5, 1.8, 
+            1, 1.5, 1.8, 
             2.0,
-            2.5, 2.75, 3.0, 3.5, 4.0
+            2.5, 3.0, 4.0
         ];
         function rangeFunction(i) {
             return speeds[i] || 1;
@@ -62,7 +62,7 @@ function init() {
 
         // Init label
         var speedLabel = document.createElement("span");
-        Object.assign(speedLabel, {
+        Object.assign(speedLabel.style, {
             display: "inline-block",
             width: "28px",
             fontWeight: "bold",
