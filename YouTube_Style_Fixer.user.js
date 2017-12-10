@@ -22,7 +22,9 @@ GM_addStyle([
     //And hide the topbar itself so that it doesn't overlap annotations
     ".ytp-hide-info-bar:hover .ytp-chrome-top { overflow:visible; height:0; }",
     //Add some blank space to the bottom of the playlist so that it doesn't scroll up when deleting items
-    "#player-playlist .playlist-videos-list { padding-bottom: 559px; }"
+    "#player-playlist .playlist-videos-list { padding-bottom: 559px; }",
     //Hide the top/bottom gradients that make the video hard to see
     //".ytp-gradient-bottom, .ytp-gradient-top { display:none; }"
+    //Prevent disappearing cursor
+    ".ytp-autohide { cursor: initial !important; }",
 ].join('\n'));
