@@ -108,17 +108,19 @@ function init() {
 }
 
 var loadWatcher = new MutationObserver(function(mutations) {
-    const allAddedNodes = [].concat.apply([], mutations.map(m => [...(m.addedNodes || [])]));
-    const shouldInit = allAddedNodes.some(node => node != null
-      && node.nodeType == HTMLElement.ELEMENT_NODE
-      && (node.tagName === "VIDEO"
-          || node.id === 'menu-container'
-          || node.querySelector("video") != null
-          || node.querySelector("#menu-container") != null));
-    //console.log("shouldInit", shouldInit, allAddedNodes);
-    if (shouldInit) {
-        init();
-    }
+  const allAddedElements = [].concat.apply([], mutations.map(m => [...(m.addedNodes || [])]))
+    .filter(node => node != null && node.nodeType == HTMLElement.ELEMENT_NODE);
+  const shouldInit = allAddedElements.some(el => {
+    return el.tagName === "VIDEO"
+      || el.id === 'menu-container'
+      || el.className === 'ytp-iv-video-content'
+      || el.querySelector("video, #menu-container, .ytp-iv-video-content") != null;
+  });
+  // console.log("shouldInit", shouldInit, allAddedElements);
+  if (shouldInit) {
+    // console.log("init", allAddedElements);
+    init();
+  }
 });
 loadWatcher.observe(document, { childList: true, subtree: true });
 init();
