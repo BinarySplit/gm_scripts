@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        YouTube HTML Playback Rate Control
-// @version     1.2
+// @version     1.3
 // @namespace   BSP
 // @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_HTML_Playback_Rate_Control.user.js
 // @include     https://www.youtube.com/*
@@ -108,18 +108,14 @@ function init() {
 }
 
 var loadWatcher = new MutationObserver(function(mutations) {
-    const shouldInit = mutations.some(mutation => {
-        return mutation.addedNodes != null &&
-            [...mutation.addedNodes].some(node => {
-            return node != null
-                && node.nodeType == HTMLElement.ELEMENT_NODE
-                && (node.tagName === "VIDEO"
-                    || node.id === '#menu-container'
-                    || node.querySelector("video") != null
-                    || node.querySelector("#menu-container") != null
-                   )
-        })
-    })
+    const allAddedNodes = [].concat.apply([], mutations.map(m => [...(m.addedNodes || [])]));
+    const shouldInit = allAddedNodes.some(node => node != null
+      && node.nodeType == HTMLElement.ELEMENT_NODE
+      && (node.tagName === "VIDEO"
+          || node.id === 'menu-container'
+          || node.querySelector("video") != null
+          || node.querySelector("#menu-container") != null));
+    //console.log("shouldInit", shouldInit, allAddedNodes);
     if (shouldInit) {
         init();
     }
