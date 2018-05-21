@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        YouTube HTML Playback Rate Control
-// @version     1.3
+// @version     1.4
 // @namespace   BSP
 // @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_HTML_Playback_Rate_Control.user.js
 // @include     https://www.youtube.com/*
@@ -20,7 +20,7 @@ function init() {
     
     if(video && actionBar) {
         var speeds = [
-            1, 1.5, 1.8, 
+            1, 1.2, 1.5,
             2.0,
             2.5, 3.0, 4.0
         ];
