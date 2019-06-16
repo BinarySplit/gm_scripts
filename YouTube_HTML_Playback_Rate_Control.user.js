@@ -1,12 +1,26 @@
 // ==UserScript==
 // @name        YouTube HTML Playback Rate Control
-// @version     1.4
+// @version     1.5
 // @namespace   BSP
 // @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_HTML_Playback_Rate_Control.user.js
 // @include     https://www.youtube.com/*
 // @include     http://www.youtube.com/*
 // @grant       none
 // ==/UserScript==
+
+// Snipped to hide all front-page recommendations
+// menus = document.querySelector('ytd-grid-renderer').querySelectorAll('#items>ytd-grid-video-renderer ytd-menu-renderer');
+// (async () => {
+//   for (var i = 0; i < menus.length; i++) {
+//     menus[i].onOverflowTap_();
+//     await new Promise(r => setTimeout(r, 16));
+//     document.querySelector('ytd-popup-container ytd-menu-service-item-renderer:nth-child(3)').onTap_();
+//     await new Promise(r => setTimeout(r, 16));
+//     document.querySelector('ytd-popup-container').handleCloseAllPopupsAction_();
+//     await new Promise(r => setTimeout(r, 16));
+//   }
+// })()
+
 var first = true;
 function init() {
     
@@ -83,6 +97,10 @@ function init() {
         container.appendChild(range);
         container.appendChild(speedLabel);
         actionBar.parentNode.insertBefore(container, actionBar);
+
+        // Unrelated: prevent volume control, etc. retaining keyboard focus after usage
+        [...document.querySelectorAll('#player-theater-container [tabindex]:not(#movie_player):not(video)')]
+            .forEach(el => el.removeAttribute('tabindex'));
         
         var i = 0, j = 0;
         function waitForStart() {
@@ -108,8 +126,9 @@ function init() {
 }
 
 var loadWatcher = new MutationObserver(function(mutations) {
+  //  console.log({mutations})
   const allAddedElements = [].concat.apply([], mutations.map(m => [...(m.addedNodes || [])]))
-    .filter(node => node != null && node.nodeType == HTMLElement.ELEMENT_NODE);
+    .filter(node => node != null && node.nodeType == 1); //HTMLElement.ELEMENT_NODE
   const shouldInit = allAddedElements.some(el => {
     return el.tagName === "VIDEO"
       || el.id === 'menu-container'
