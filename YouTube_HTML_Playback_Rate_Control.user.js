@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name        YouTube HTML Playback Rate Control
-// @version     1.6
+// @version     1.7
 // @namespace   BSP
 // @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_HTML_Playback_Rate_Control.user.js
 // @include     https://www.youtube.com/*
 // @include     http://www.youtube.com/*
-// @grant       none
+// @grant       unsafeWindow
 // ==/UserScript==
 
 // Snipped to hide all front-page recommendations
@@ -57,6 +57,11 @@ function init() {
             range.value = speeds.indexOf(parseFloat(localStorage.playbackRate) || 2);
             rangeInput();
         }, false);
+
+        unsafeWindow.__bspBumpVideoPlaybackRate = (delta) => {
+            range.value = parseFloat(range.value) + delta;
+            rangeInput();
+        };
 
         // Init slider
         var range = Object.assign(document.createElement("input"), {
