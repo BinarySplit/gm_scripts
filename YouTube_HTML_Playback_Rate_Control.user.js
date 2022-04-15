@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        YouTube HTML Playback Rate Control
-// @version     1.7
+// @version     1.8
 // @namespace   BSP
 // @downloadURL https://github.com/BinarySplit/gm_scripts/raw/master/YouTube_HTML_Playback_Rate_Control.user.js
 // @include     https://www.youtube.com/*
@@ -34,9 +34,17 @@ function init() {
     
     if(video && actionBar) {
         var speeds = [
-            1, 1.2, 1.5,
+            //0.75,
+            //0.8,
+            //0.9,
+            1,
+            1.2,
+            1.5,
             2.0,
-            2.5, 3.0, 4.0
+            2.5,
+            3.0,
+            3.5,
+            4.0,
         ];
         function rangeFunction(i) {
             return speeds[i] || 1;
@@ -98,6 +106,7 @@ function init() {
             cssFloat: "right",
             marginTop: "6px",
             fontSize: "11px",
+            color: 'var(--yt-button-icon-button-text-color, var(--yt-spec-text-secondary))',
         })
         container.appendChild(range);
         container.appendChild(speedLabel);
@@ -109,7 +118,7 @@ function init() {
         
         var i = 0, j = 0;
         function waitForStart() {
-            if(video.getCurrentTime() > 0) {
+            if(video.getCurrentTime && video.getCurrentTime() > 0) {
                 if(first) {
                 	video.pause();
                     first = false;
@@ -130,21 +139,61 @@ function init() {
     }
 }
 
+const registeredVideos = new WeakSet()
+
+function watchVideoForSrcChanges(v) {
+    if (!registeredVideos.has(v)) {
+        console.log('watching video for src changes', v)
+        registeredVideos.add(v)
+        loadWatcher.observe(v, { attributes: true, attributeFilter: ['src'] })
+        forceQuality();
+    }
+}
+
+async function forceQuality() {
+    const player = (document.querySelector('ytd-player') || {}).player_;
+    if (player != null && !player.getPlaybackQuality) {
+        // Some members seem to be added after initialization - wait a tick for getPlaybackQuality
+        await new Promise(resolve => setTimeout(resolve, 0));
+        console.log(player, player.getPlaybackQuality)
+    }
+    if (player != null && player.getPlaybackQuality) {
+        const quality = player.getPlaybackQuality();
+        const levels = player.getAvailableQualityLevels();
+        if (quality != 'auto' && quality != 'unknown') {
+            player.setPlaybackQualityRange(quality, quality);
+            console.log({quality, levels})
+        } else {
+            const q = levels.includes('hd1080') ? 'hd1080' : levels[0];
+            player.setPlaybackQualityRange(q, q);
+            console.log({quality, q, levels})
+        }
+    }
+}
+
 var loadWatcher = new MutationObserver(function(mutations) {
   //  console.log({mutations})
-  const allAddedElements = [].concat.apply([], mutations.map(m => [...(m.addedNodes || [])]))
+  const allAddedElements = mutations.flatMap(m => [...(m.addedNodes || [])])
     .filter(node => node != null && node.nodeType == 1); //HTMLElement.ELEMENT_NODE
-  const shouldInit = allAddedElements.some(el => {
+  const hasVideoChange = mutations.some(m => m.type == 'attributes');
+  const hasNewVideo = allAddedElements.some(el => {
     return el.tagName === "VIDEO"
       || el.id === 'menu-container'
       || el.className === 'ytp-iv-video-content'
       || el.querySelector("video, #menu-container, .ytp-iv-video-content") != null;
   });
-  // console.log("shouldInit", shouldInit, allAddedElements);
-  if (shouldInit) {
+  // Watch video elements for src attribute change
+  allAddedElements
+      .flatMap(el => el.tagName === "VIDEO" ? [el] : [...el.querySelectorAll('video')])
+      .forEach(watchVideoForSrcChanges)
+  // console.log("shouldInit", hasVideoChange, hasNewVideo, allAddedElements);
+  console.log("shouldInit", hasVideoChange, hasNewVideo);
+  if (hasVideoChange || hasNewVideo) {
     // console.log("init", allAddedElements);
-    init();
+      init();
+      forceQuality();
   }
 });
 loadWatcher.observe(document, { childList: true, subtree: true });
+[...document.querySelectorAll('video')].forEach(watchVideoForSrcChanges)
 init();
